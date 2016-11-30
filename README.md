@@ -7,7 +7,7 @@ C é uma das linguagens de programação mais popularese existem poucas arquitet
     https://github.com/rodolfod2r2/C
 
 
-### Linguagem C - Conteúdo ###
+### Linguagem C Básico - Conteúdo ###
  
 - 001° **Introdução**
 - 002° **Declaração de Variáveis**
