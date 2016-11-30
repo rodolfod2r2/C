@@ -7,35 +7,53 @@ C é uma das linguagens de programação mais popularese existem poucas arquitet
     https://github.com/rodolfod2r2/C
 
 
-### Curso de Linguagem C - Conteúdo ###
+### Linguagem C - Conteúdo ###
  
-- 001° Aula: **Introdução**
-- 002° Aula: **Declaração de Variáveis**
-- 003° Aula: **Printf**
-- 004° Aula: **Scanf**
-- 005° Aula: **Operadores de Atribuição**
-- 006° Aula: **Constantes**
-- 007° Aula: **Operadores Aritméticos**
-- 008° Aula: **Comentários**
-- 009° Aula: **Pré e Pós Incremento**
-- 010° Aula: **Atribuição Simplificada**
-- 011° Aula: **Operadores Relacionais**
-- 012° Aula: **Operadores Lógicos**
-- 013° Aula: **Comando If**
-- 014° Aula: **Comando Else**
-- 015° Aula: **Aninhamento IfElse**
-- 016° Aula: **Operador Ternário(?)**
-- 017° Aula: **Comando Switch**
-- 018° Aula: **Comando While**
-- 019° Aula: **Comando For**
-- 020° Aula: **Comando Do<->While**
-- 021° Aula: **Aninhamento de Repetições**
-- 022° Aula: **Comando Break**
-- 023° Aula: **Comando Continue**
-- 024° Aula: **Comando Goto**
-- 025° Aula: **Array / Vetor**
-- 026° Aula: **Array / Matriz**
-- 027° Aula: **Array Multidimensional**
+- 001° **Introdução**
+- 002° **Declaração de Variáveis**
+- 003° **Printf**
+- 004° **Scanf**
+- 005° **Operadores de Atribuição**
+- 006° **Constantes**
+- 007° **Operadores Aritméticos**
+- 008° **Comentários**
+- 009° **Pré e Pós Incremento**
+- 010° **Atribuição Simplificada**
+- 011° **Operadores Relacionais**
+- 012° **Operadores Lógicos**
+- 013° **Comando If**
+- 014° **Comando Else**
+- 015° **Aninhamento IfElse**
+- 016° **Operador Ternário(?)**
+- 017° **Comando Switch**
+- 018° **Comando While**
+- 019° **Comando For**
+- 020° **Comando Do<->While**
+- 021° **Aninhamento de Repetições**
+- 022° **Comando Break**
+- 023° **Comando Continue**
+- 024° **Comando Goto**
+- 025° **Array / Vetor**
+- 026° **Array / Matriz**
+- 027° **Array Multidimensional**
+
+### Linguagem C Estrutura de Dados - Conteúdo ###
+ 
+- 001° **Introdução**
+- 002° **Listas**
+- 003° **Listas Ordenadas**
+- 004° **Pilhas**
+- 005° **Filas**
+- 006° **Deques**
+- 007° **Pesquisa de Dados**
+- 008° **Árvores**
+- 009° **Árvore Binária**
+- 010° **Árvore Binária de Pesquisa**
+- 011° **Árvore AVL**
+- 012° **Indexação**
+- 013° **Hashing**
+- 014° **Árvore-B**
+- 015° **Classificação de Dados**
 
 #### Exemplos: ####
 
